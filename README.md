@@ -1,6 +1,6 @@
 # Portal
 
-**Personnal exercise in elixir, from José Valim ["howistart" article](http://howistart.org/posts/elixir/1/)**
+**Personnal exercise in elixir, from José Valim ["howistart"](http://howistart.org/posts/elixir/1/) article**
 
 ## Installation
 
